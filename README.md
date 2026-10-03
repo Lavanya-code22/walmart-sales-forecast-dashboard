@@ -31,17 +31,17 @@ Real data from the [Walmart Recruiting - Store Sales Forecasting](https://www.ka
 
 ## 📷 Dashboard Screenshots
 
-![Sales Forecast with Confidence Interval](Screenshot 2026-10-03 111653.png)
+![Sales Forecast with Confidence Interval](Screenshot%202026-10-03%20111653.png)
 
-![Holiday vs Non-Holiday Sales Comparison](Screenshot 2026-10-03 111734.png)
+![Holiday vs Non-Holiday Sales Comparison](Screenshot%202026-10-03%20111734.png)
 
-![Promotion Spend vs Sales Analysis](Screenshot 2026-10-03 111827.png)
+![Promotion Spend vs Sales Analysis](Screenshot%202026-10-03%20111827.png)
 
-![Store-Level Filtering with Slicer](Screenshot 2026-10-03 111851.png)
+![Store-Level Filtering with Slicer](Screenshot%202026-10-03%20111851.png)
 
-![All Charts View](Screenshot 2026-10-03 112949.png)
+![All Charts View](Screenshot%202026-10-03%20112949.png)
 
-![Complete Dashboard Overview](Screenshot 2026-10-03 113009.png)
+![Complete Dashboard Overview](Screenshot%202026-10-03%20113009.png)
 
 ## 🚀 How to Use
 
